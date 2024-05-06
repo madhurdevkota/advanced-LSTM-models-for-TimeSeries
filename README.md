@@ -1,4 +1,3 @@
-Info:
 
 1. Introduction
    - Overview of the project goal: Classifying and predicting sequential time series data using Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)
